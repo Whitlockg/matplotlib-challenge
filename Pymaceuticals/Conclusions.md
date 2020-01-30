@@ -1,0 +1,4 @@
+Looking at the scatterplot for Tumor Response to Treatment, it is clear that the only drug to decrease tumor volume (at least in mice) over time would be Capomulin. 
+Another observation worth acknowledging would be that the other two drugs, Infubinol and Ketapril, show continuous tumor growth over time, even comparable to the tumor growth seen in mice that were given a placebo, showing that they are essentially ineffective. 
+Another interesting observation is that while Infubinol resulted in lower tumor growth and metastatic spread rates than Ketapril, it ultimately resulted in a lower survival rate. 
+I would not recommend either Infubinol or Ketapril to treat tumors. 
